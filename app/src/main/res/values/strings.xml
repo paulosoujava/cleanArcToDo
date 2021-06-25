@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CleanToDo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_title">Digite seu titulo</string>
+    <string name="whatsUpp">diz ai, qual é a de hj?</string>
+    <string name="done">Concluir</string>
+    <string name="to_do">To Do</string>
+    <string name="nothing">Ops somente fumaça por aqui, pis nada foi cadastrado ainda... Vamos inicar?</string>
+    <string name="clickInit">Clique aqui para iniciar</string>
+</resources>

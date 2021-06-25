@@ -1,0 +1,3 @@
+rootProject.name = "CleanToDo"
+include ':app'
+include ':app:core'
